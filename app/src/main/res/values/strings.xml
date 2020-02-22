@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Skills</string>
+    <string-array name="skills">
+        <item>Figma</item>
+        <item>Html5</item>
+        <item>CSS</item>
+        <item>Angular</item>
+        <item>Flutter</item>
+        <item>Android</item>
+        <item>Sketch</item>
+        <item>Wordpress</item>
+        <item>Adobe xd</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is a ramdom description</item>
+        <item>This is a ramdom description</item>
+        <item>This is a ramdom description</item>
+        <item>This is a ramdom description</item>
+        <item>This is a ramdom description</item>
+        <item>This is a ramdom description</item>
+        <item>This is a ramdom description</item>
+        <item>This is a ramdom description</item>
+        <item>This is a ramdom description</item>
+    </string-array>
+</resources>
